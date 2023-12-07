@@ -1,0 +1,12 @@
+C:\Dev\BE\PeriodTracker\PeriodTracker.Core\bin\Debug\net7.0\PeriodTracker.Core.deps.json
+C:\Dev\BE\PeriodTracker\PeriodTracker.Core\bin\Debug\net7.0\PeriodTracker.Core.dll
+C:\Dev\BE\PeriodTracker\PeriodTracker.Core\bin\Debug\net7.0\PeriodTracker.Core.pdb
+C:\Dev\BE\PeriodTracker\PeriodTracker.Core\obj\Debug\net7.0\PeriodTracker.Core.csproj.AssemblyReference.cache
+C:\Dev\BE\PeriodTracker\PeriodTracker.Core\obj\Debug\net7.0\PeriodTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\BE\PeriodTracker\PeriodTracker.Core\obj\Debug\net7.0\PeriodTracker.Core.AssemblyInfoInputs.cache
+C:\Dev\BE\PeriodTracker\PeriodTracker.Core\obj\Debug\net7.0\PeriodTracker.Core.AssemblyInfo.cs
+C:\Dev\BE\PeriodTracker\PeriodTracker.Core\obj\Debug\net7.0\PeriodTracker.Core.csproj.CoreCompileInputs.cache
+C:\Dev\BE\PeriodTracker\PeriodTracker.Core\obj\Debug\net7.0\PeriodTracker.Core.dll
+C:\Dev\BE\PeriodTracker\PeriodTracker.Core\obj\Debug\net7.0\refint\PeriodTracker.Core.dll
+C:\Dev\BE\PeriodTracker\PeriodTracker.Core\obj\Debug\net7.0\PeriodTracker.Core.pdb
+C:\Dev\BE\PeriodTracker\PeriodTracker.Core\obj\Debug\net7.0\ref\PeriodTracker.Core.dll

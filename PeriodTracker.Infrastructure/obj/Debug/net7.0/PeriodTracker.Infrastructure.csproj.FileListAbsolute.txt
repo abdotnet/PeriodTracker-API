@@ -1,0 +1,12 @@
+C:\Dev\BE\PeriodTracker\PeriodTracker.Infrastructure\bin\Debug\net7.0\PeriodTracker.Infrastructure.deps.json
+C:\Dev\BE\PeriodTracker\PeriodTracker.Infrastructure\bin\Debug\net7.0\PeriodTracker.Infrastructure.dll
+C:\Dev\BE\PeriodTracker\PeriodTracker.Infrastructure\bin\Debug\net7.0\PeriodTracker.Infrastructure.pdb
+C:\Dev\BE\PeriodTracker\PeriodTracker.Infrastructure\obj\Debug\net7.0\PeriodTracker.Infrastructure.csproj.AssemblyReference.cache
+C:\Dev\BE\PeriodTracker\PeriodTracker.Infrastructure\obj\Debug\net7.0\PeriodTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\BE\PeriodTracker\PeriodTracker.Infrastructure\obj\Debug\net7.0\PeriodTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\Dev\BE\PeriodTracker\PeriodTracker.Infrastructure\obj\Debug\net7.0\PeriodTracker.Infrastructure.AssemblyInfo.cs
+C:\Dev\BE\PeriodTracker\PeriodTracker.Infrastructure\obj\Debug\net7.0\PeriodTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Dev\BE\PeriodTracker\PeriodTracker.Infrastructure\obj\Debug\net7.0\PeriodTracker.Infrastructure.dll
+C:\Dev\BE\PeriodTracker\PeriodTracker.Infrastructure\obj\Debug\net7.0\refint\PeriodTracker.Infrastructure.dll
+C:\Dev\BE\PeriodTracker\PeriodTracker.Infrastructure\obj\Debug\net7.0\PeriodTracker.Infrastructure.pdb
+C:\Dev\BE\PeriodTracker\PeriodTracker.Infrastructure\obj\Debug\net7.0\ref\PeriodTracker.Infrastructure.dll
